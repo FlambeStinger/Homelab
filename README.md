@@ -10,7 +10,7 @@ With these objectives in mind, I'm excited to document and share my struggles an
 ## Overview
 To begin this project, I will be dividing it into several phases. This will make it easier to manage and execute. These phases will be the Infrastructure Phase, the Services Phase, and the Improvement Phase.
 ### Infrastructure Phase:
-The focus of this phase is to set up the underlying network infrastructure for the homelab. This involves planning the network, obtaining the necessary equipment, installing the equipment, and configuring them.  
+The focus of this phase is to set up the underlying network infrastructure for the homelab. This involves planning the network, obtaining the necessary equipment, installing the equipment, and configuring them.   
 
 ### Services Phase:
 
