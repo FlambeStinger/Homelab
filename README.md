@@ -10,10 +10,10 @@ With these objectives in mind, I'm excited to document and share my struggles an
 ## Overview
 To begin this project, I will be dividing it into several phases. This will make it easier to manage and execute. These phases will be the Infrastructure Phase, the Services Phase, and the Improvement Phase.
 ### Infrastructure Phase:
-The focus of this phase will be setting up the underlying network infrastructure for the homelab. This involves planning the network, obtaining the necessary equipment, installing the equipment, and configuring them. During this phase, subnets will be determined, VLANs will be configured, wireless connectivity will be implemented, basic firewall rules will be set up, etc. 
+The focus of this phase will be setting up the underlying network infrastructure for the homelab. This involves planning the network, obtaining the necessary equipment, installing the equipment, and configuring them. During this phase, subnets will be determined, VLANs will be configured, wireless connectivity will be implemented, basic firewall rules will be set up, etc. Once this phase is over, the Homelab will transition into the Services Phase.
 
 ### Services Phase:
-
+This phase's objective is to configure and establish services that I would like to have. During this phase, servers will be obtained and installed to the existing infrastructure. Basic services such as DHCP, DNS, and SSH will be configured first, then other services that I would like to learn about will be installed afterwards. Once I complete this phase, I will transition the Homelab into the Improvement Phase. 
 
 ### Improvement Phase:
 
