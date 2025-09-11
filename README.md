@@ -17,3 +17,10 @@ This phase's objective is to configure and establish services that I would like 
 
 ### Improvement Phase:
 As the final phase for this project, the objective of this phase is to improve the efficiency and operations of the Homelab. A main focus for this phase will be learning how to automate tasks and implementing them to the devices in the lab. Another focus for this phase will be collecting and processing telemetry. I expect this phase to take the longest given how unfamiliar I am with automation, but on the other hand I expect to learn the most from this phase. 
+
+### The Project's Ending
+After all three phases are completed, the project will be over and an analysis will be performed. This analysis will summarize the skills that I have learned and determine whether or not this project has met its goals. Dependent upon the success of this project, it will either examine the factors that made this project successful or the factors that made it unsucessful, hopefully, the former rather than the latter. Overall, I hope that this project accurately represents my capabilities and serves as an example for others.
+
+## Table of Contents
+
+## References 
