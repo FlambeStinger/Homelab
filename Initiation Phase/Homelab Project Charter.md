@@ -1,3 +1,7 @@
+<h1 align=center>
+	Charter
+</h1>
+
 **Project Name**  
    Josh’s Homelab
 
