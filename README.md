@@ -8,18 +8,22 @@
 With these objectives in mind, I'm excited to document and share my struggles and successes as I pursue them! As another thing to note, this will be an ongoing project without a planned date for completition. So expect frequent updates and changes to this repository.
 
 ## Overview
-To begin this project, I will be dividing it into several phases. This will make it easier to manage and execute. These phases will be the Infrastructure Phase, the Services Phase, and the Improvement Phase.
-### Infrastructure Phase:
-The focus of this phase will be setting up the underlying network infrastructure for the homelab. This involves planning the network, obtaining the necessary equipment, installing the equipment, and configuring them. During this phase, subnets will be determined, VLANs will be configured, wireless connectivity will be implemented, basic firewall rules will be set up, etc. Once this phase is over, the Homelab will transition into the Services Phase.
+To begin this project, I will be dividing it into several phases. This will make it easier to manage and execute. These phases will be the Initiation Phase, the Planning Phase, the Execution Phase, the Control Phase, and the Completition Phase.
+### Initiation Phase:
+The Initiation Phase establishes the need for a project by justifying it, identityfing goals & key stakeholders, and recieving approval to start. Information is collected and presented regarding risks, assumptions, requirements, cost, and time. A major deliverable from this phase is the Project Charter. This document summarizes the purpose of the project, its benefits, and a high-level overview of requirements and execution. Essentially, the document ensures that everyone is in agreement regarding the project while establishing a foundation for the remaining phases of the project. 
 
-### Services Phase:
-This phase's objective is to configure and establish services that I would like to have. During this phase, servers will be obtained and installed to the existing infrastructure. Basic services such as DHCP, DNS, and SSH will be configured first, then other services that I would like to learn about will be installed afterwards. Once I complete this phase, I will transition the Homelab into the Improvement Phase. 
+### Planning Phase:
 
-### Improvement Phase:
-As the final phase for this project, the objective of this phase is to improve the efficiency and operations of the Homelab. A main focus for this phase will be learning how to automate tasks and implementing them to the devices in the lab. Another focus for this phase will be collecting and processing telemetry. I expect this phase to take the longest given how unfamiliar I am with automation, but on the other hand I expect to learn the most from this phase. 
+
+### Execution Phase:
+
+
+### Control Phase:
+
+### Completion Phase:
 
 ### The Project's Ending
-After all three phases are completed, the project will be over and an analysis will be performed. This analysis will summarize the skills that I have learned and determine whether or not this project has met its goals. Dependent upon the success of this project, it will either examine the factors that made this project successful or the factors that made it unsucessful, hopefully, the former rather than the latter. Overall, I hope that this project accurately represents my capabilities and serves as an example for others.
+After all phases are completed, the project will be over and an analysis will be performed. This analysis will summarize the skills that I have learned and determine whether or not this project has met its goals. Dependent upon the success of this project, it will either examine the factors that made this project successful or the factors that made it unsucessful, hopefully, the former rather than the latter. Overall, I hope that this project accurately represents my capabilities and serves as an example for others.
 
 ## Table of Contents
 
