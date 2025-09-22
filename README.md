@@ -13,7 +13,7 @@ To begin this project, I will be dividing it into several phases. This will make
 The Initiation Phase establishes the need for a project by justifying it, identityfing goals & key stakeholders, and recieving approval to start. Information is collected and presented regarding risks, assumptions, requirements, cost, and time. A major deliverable from this phase is the Project Charter. This document summarizes the purpose of the project, its benefits, and a high-level overview of requirements and execution. Essentially, the document ensures that everyone is in agreement regarding the project while establishing a foundation for the remaining phases of the project. 
 
 ### Planning Phase:
-
+Following after the Initation Phase, the Planning Phase establishes a clear road map detailing how the project should be completed, what work will be accomplished, who will do that work, how much time will be allocated, etc. The main deliverable of this phase is the Project Plan. This plan is a collection of multiple documents that addresses the specifics of the road map. 
 
 ### Execution Phase:
 
